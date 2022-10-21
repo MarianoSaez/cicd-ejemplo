@@ -28,9 +28,8 @@ services:
       networks:
         - isa-blog-backend-dev
       volumes:
-        - ~/ingenieria-software-aplicada/blog:/home/jhipster/app
-        - ~/ingenieria-software-aplicada/blog/.m2:/home/jhipster/.m2
-        - ~/jdk-11.0.12+7:/home/jhipster/jdk-11.0.12+7
+        - ~/Facultad/ingenieria_de_software_aplicada/blog:/home/jhipster/app
+        - ~/Facultad/ingenieria_de_software_aplicada/blog.m2:/home/jhipster/.m2
 
 networks:
   isa-blog-backend-dev:
