@@ -592,7 +592,7 @@
                             </platforms>
                         </from>
                         <to>
-                            <image>cicd-ejemplo:latest</image>
+                            <image>MarianoSaez/cicd-ejemplo:latest</image>
                             <tags>
                                 <tag>${project.version}</tag>
                                 <tag>latest</tag>
